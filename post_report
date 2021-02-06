@@ -1,0 +1,20 @@
+formulas
+- vus 100
+- duration 180
+
+//====
+
+data_received..............: 12 MB 66 kB/s
+data_sent..................: 17 MB 95 kB/s
+http_req_blocked...........: avg=6.37µs   min=1µs      med=4µs      max=2.3ms  p(90)=7µs      p(95)=11µs
+http_req_connecting........: avg=657ns    min=0s       med=0s       max=1.17ms p(90)=0s       p(95)=0s
+http_req_duration..........: avg=260.72ms min=114.51ms med=246.94ms max=1.01s  p(90)=313.53ms p(95)=355.32ms
+http_req_receiving.........: avg=73.12µs  min=20µs     med=66µs     max=2.63ms p(90)=107µs    p(95)=124µs
+http_req_sending...........: avg=35.24µs  min=10µs     med=30µs     max=1.16ms p(90)=53µs     p(95)=64µs
+http_req_tls_handshaking...: avg=0s       min=0s       med=0s       max=0s     p(90)=0s       p(95)=0s
+http_req_waiting...........: avg=260.61ms min=114.41ms med=246.83ms max=1.01s  p(90)=313.44ms p(95)=355.2ms
+http_reqs..................: 68996 383.024477/s
+iteration_duration.........: avg=260.96ms min=114.74ms med=247.18ms max=1.01s  p(90)=313.77ms p(95)=355.56ms
+iterations.................: 68996 383.024477/s
+vus........................: 100   min=100 max=100
+vus_max....................: 100   min=100 max=100
